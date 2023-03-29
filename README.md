@@ -1,2 +1,2 @@
-# Simple <a href="https://anaya-n.github.io/">CV</a>
-[live demo](https://anaya-n.github.io)
+# Simple <a href="https://anaya-n.github.io/simple_cv/">CV</a>
+
